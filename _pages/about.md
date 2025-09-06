@@ -166,7 +166,11 @@ Jiali Lin, **Jian Li***
 
 <span class='anchor' id='grants'></span>
 # 💰 Grants
-1. **广东省自然科学基金-面上项目** (2025.01-2028.01)
+1. **国家自然科学基金-青年C类项目** (2026.01-2028.12)
+   - Title: 基于敏感提示词指纹的云端开源大语言模型完整性验证方法研究
+   - Role: **Principal Investigator**
+     
+1. **广东省自然科学基金-面上项目** (2025.01-2027.12)
    - Title: 面向边缘计算的高效数据完整性验证与快速损坏定位关键技术研究
    - Role: **Principal Investigator**
 
