@@ -185,7 +185,7 @@ Jiali Lin, **Jian Li***
 <span class='anchor' id='awards'></span>
 # 🎖️ Awards
 - *2025*: **Best Paper Award**, IEEE WOCC 2025
-- *2023*: Outstanding Researching Award, Guangdong University of Technology, Jieyang Campus
+- *2024*: Outstanding Researching Award, Guangdong University of Technology, Jieyang Campus
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
