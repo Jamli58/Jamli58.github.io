@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Homepage of Jian Li(黎坚)"
+title                    : "Homepage of Jian Li(黎坚)-GDUT"
 description              : #"AP in GDUT"
 repository               : "https://github.com/Jamli58/Jamli58.github.io"
 google_scholar_stats_use_cdn : true
