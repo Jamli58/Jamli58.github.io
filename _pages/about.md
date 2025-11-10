@@ -9,7 +9,7 @@ keywords:
   - 黎坚
   - 黎坚 GDUT
   - 黎坚 广东工业大学
-  - Edge Integrity
+  - Edge Data Integrity
   - 数据完整性验证
   - 区块链
   - Edge Intelligence
