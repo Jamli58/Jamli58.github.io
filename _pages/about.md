@@ -44,7 +44,7 @@ I am looking for motivated students and collaborators—feel free to reach me at
 
 ## 💼 Work Experience
 - *2020.09 - Present*: **Lecturer**, School of Computer Science, Guangdong University of Technology, Guangzhou/Jieyang, China
-- *2017.06 - 2020.08*: **Senior Engineer**, Tencent Technology Co., Ltd., Shenzhen, China
+- *2017.06 - 2020.08*: **Senior Engineer**, [Tencent Technology Co., Ltd.](https://www.tencent.com/zh-cn/about.html/), Shenzhen, China
   - Developed and maintained WeChat Pay fraud detection backend systems
   - Led the design and development of anti-fraud integration system for public security agencies
 
