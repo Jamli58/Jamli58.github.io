@@ -56,7 +56,7 @@ I am looking for motivated students and collaborators—feel free to reach me at
 <span class='anchor' id='news'></span>
 # 🔥 News
 From 2025.
-- *2025.12*: &nbsp;🎉 Our paper 'EdgeBatch: Efficient Decentralized Batch Verification for Edge Data Integrity via Reputation-Aware Combination Selection' has been accepted by **IEEE Transactions on Mobile Computing**!
+- *2025.12*: &nbsp;🎉🎉 Our paper 'EdgeBatch: Efficient Decentralized Batch Verification for Edge Data Integrity via Reputation-Aware Combination Selection' has been accepted by **IEEE Transactions on Mobile Computing**!
 - *2025.05*: &nbsp;🎉 Our paper received the **Best Paper Award** at IEEE WOCC 2025!
 
 <span class='anchor' id='selected-publications'></span>
