@@ -2,8 +2,8 @@
 permalink: /
 layout: home     # 视主题而定
 lang: zh-CN      # 对应页面语言
-title: "Jian Li (黎坚) | GDUT | Edge Integrity · Blockchain · Edge Intelligence"
-description: "Homepage of Dr. Jian Li, Lecturer at GDUT. Research on data/model integrity verification, blockchain, and edge intelligence."
+title: "Jian Li (黎坚) | GDUT | Edge Data Integrity · LLM Integrity · Blockchain"
+description: "Homepage of Dr. Jian Li, Lecturer at GDUT. Research on edge data integrity verification, LLM integrity verification, blockchain, and edge intelligence."
 keywords:
   - Jian Li
   - 黎坚
@@ -12,6 +12,8 @@ keywords:
   - Edge Data Integrity
   - 数据完整性验证
   - 区块链
+  - LLM Integrity Verification
+  - 大模型完整性验证
   - Edge Intelligence
 author_profile: true
 robots: index,follow        # 如不想被收录可改为 noindex
@@ -32,7 +34,7 @@ robots: index,follow        # 如不想被收录可改为 noindex
 <span class='anchor' id='about-me'></span>
 # 😊 About Me
 
-I am a Lecturer in the School of Computer Science at Guangdong University of Technology, focusing on data/model integrity verification, blockchain-based trusted computing, and edge intelligence.  
+I am a Lecturer in the School of Advanced Manufacturing at Guangdong University of Technology (Jieyang Campus), focusing on edge data integrity verification, integrity verification of cloud-hosted large language models (LLMs), blockchain-based trusted computing, and edge intelligence.  
 I received my Ph.D. in Artificial Intelligence from Macau University of Science and Technology in 2024 and previously worked at Tencent, where I helped build WeChat Pay’s fraud-detection backend.  
 I am looking for motivated students and collaborators—feel free to reach me at [lijian@gdut.edu.cn](mailto:lijian@gdut.edu.cn).
 
@@ -43,19 +45,25 @@ I am looking for motivated students and collaborators—feel free to reach me at
 - *2010.09 - 2014.06*, B.S. in Computer Science and Technology, [Wuhan Institute of Technology](https://www.wit.edu.cn/), Wuhan, China
 
 ## 💼 Work Experience
-- *2020.09 - Present*: **Lecturer**, School of Computer Science, Guangdong University of Technology, Guangzhou/Jieyang, China
+- *2020.09 - Present*: **Lecturer**, School of Advanced Manufacturing, Guangdong University of Technology, Jieyang, China
 - *2017.06 - 2020.08*: **Senior Engineer**, [Tencent Technology Co., Ltd.](https://www.tencent.com/zh-cn/about.html/), Shenzhen, China
   - Developed and maintained WeChat Pay fraud detection backend systems
   - Led the design and development of anti-fraud integration system for public security agencies
 
 ## 🔬 Research Interests
-- **Data/Model Integrity Verification**: Efficient mechanisms for edge computing environments
-- **Blockchain Technology**: Distributed systems and consensus mechanisms
+- **Edge Data Integrity Verification**: Efficient and decentralized verification mechanisms for edge computing environments
+- **LLM Integrity Verification**: Fingerprinting and statistical testing to verify that cloud-hosted open-source LLMs are genuine and unmodified
+- **Blockchain Technology**: Smart contracts, distributed systems, and consensus mechanisms
 - **Edge Intelligence**: AI applications in edge computing scenarios
 
 <span class='anchor' id='news'></span>
 # 🔥 News
 From 2025.
+- *2026.08*: &nbsp;🎉 Our paper 'Commit-Reveal Based Integrity Verification for Replicated Edge Data on Blockchain' has been accepted by **IEEE GLOBECOM 2026**!
+- *2026.08*: &nbsp;📜 Invention patent 'LLM fingerprint construction based on maximally activated component coverage' has been granted.
+- *2026.07*: &nbsp;🎉 Two papers on decentralized edge data integrity verification have been accepted by **BlockSys 2026**!
+- *2026.04*: &nbsp;📜 Invention patent 'Sensitive prompt generation based on parameter sensitivity quantification' has been granted.
+- *2026.03*: &nbsp;📖 EdgeBatch is now published in **IEEE Transactions on Mobile Computing**, Vol. 25, No. 3.
 - *2025.12*: &nbsp;🎉🎉 Our paper 'EdgeBatch: Efficient Decentralized Batch Verification for Edge Data Integrity via Reputation-Aware Combination Selection' has been accepted by **IEEE Transactions on Mobile Computing**!
 - *2025.05*: &nbsp;🎉 Our paper received the **Best Paper Award** at IEEE WOCC 2025!
 
@@ -63,6 +71,17 @@ From 2025.
 # 📝 Selected Publications 
 Please visit my [Google Scholar](https://scholar.google.com/citations?user=T4TCmnYAAAAJ&hl=en) page for full publications.
 ## Journal Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TMC 2026</div><img src='images/EdgeBatch.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[EdgeBatch: Efficient Decentralized Batch Verification for Edge Data Integrity via Reputation-Aware Combination Selection](https://doi.org/10.1109/TMC.2025.3645025)
+  
+**Jian Li**, Yibo Chen, Qinglin Zhao*, Jincheng Cai, Shaohua Teng, Naiqi Wu
+
+**IEEE Transactions on Mobile Computing**, Volume: 25, Issue: 3, March 2026 (中科院一区Top, JCR Q1)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNSE 2024</div><img src='images/OR-EDI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -132,6 +151,39 @@ Wei Zhang, KangBin Zhou, LuYao Teng*, FeiYi Tang, NaiQi Wu, ShaoHua Teng, **Jian
 
 ## Conference Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GLOBECOM 2026</div><img src='images/CommitReveal-GLOBECOM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Commit-Reveal Based Integrity Verification for Replicated Edge Data on Blockchain
+  
+Ziyao Chen, **Jian Li***, Hongshu Li, Jincheng Cai
+
+**2026 IEEE Global Communications Conference (GLOBECOM)**, Macau, 2026 (Accepted)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BlockSys 2026</div><img src='images/Accumulator-BlockSys.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Accumulator-Based Peer Verification for Heterogeneous Edge Caches with Per-Item Fault Tolerance
+  
+Hongshu Li, Haoyong Lei, Chuntao Zheng, **Jian Li***, Jincheng Cai
+
+**The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys)**, Springer CCIS, 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BlockSys 2026</div><img src='images/SC-EDI-BlockSys.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+SC-EDI: Smart Contract-Assisted Method for Decentralized Edge Data Integrity Verification
+  
+Yifan Jiang, Jiahao Huang, Linrun Yang, Haoyong Lei, **Jian Li***
+
+**The 8th International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems (BlockSys)**, Springer CCIS, 2026
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WOCC 2025 Best Paper</div><img src='images/WOCC-BestPaper.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -165,6 +217,18 @@ Jiali Lin, **Jian Li***
 </div>
 </div>
 
+<span class='anchor' id='patents-books'></span>
+# 📜 Patents & Books
+## Granted Invention Patents
+1. **黎坚**, 郑勇涛, 陈通宝, 郑春涛, 蔡金成. 一种基于最大激活组件覆盖的大语言模型指纹构建方法及系统. ZL 2025 1 1839790.7, 授权日 2026.08
+2. **黎坚**, 郑春涛, 陈子尧, 陈康, 陈毅博. 一种基于参数敏感性量化的敏感提示词生成方法及系统. ZL 2025 1 1046967.8, 授权日 2026.04
+3. 杜翠凤, 滕少华, **黎坚**, 龙晓琼, 李泓澍. 一种移动边缘计算系统的任务卸载方法及装置. ZL 2022 1 0020759.0, 授权日 2025.06
+4. 龙晓琼, 杜翠凤, 滕少华, **黎坚**, 李泓澍. 一种物联网安全检测方法、装置、设备及存储介质. ZL 2022 1 0083561.7, 授权日 2023.08
+5. **黎坚**, 杜翠凤, 滕少华, 龙晓琼, 李泓澍. 一种终端信任度评估方法、装置、设备及存储介质. ZL 2022 1 0179968.X, 授权日 2023.07
+
+## Books
+- 《边缘计算及应用》（智能制造系列教材）, 清华大学出版社, 2024. 滕少华 主编, **黎坚** 副主编
+
 <span class='anchor' id='grants'></span>
 # 💰 Grants
 1. **国家自然科学基金-青年C类项目** (2026.01-2028.12)
@@ -175,23 +239,25 @@ Jiali Lin, **Jian Li***
    - Title: 面向边缘计算的高效数据完整性验证与快速损坏定位关键技术研究
    - Role: **Principal Investigator**
 
-2. **教育部产学合作协同育人项目** (2023.10-2025.10)
+1. **教育部产学合作协同育人项目** (2023.10-2025.10)
    - Title: 新工科背景下《人工智能》课程教学改革与实践
    - Role: **Principal Investigator**
 
-3. **澳門科學技術發展基金** (2023.01-2026.01)
+1. **澳門科學技術發展基金** (2023.01-2026.01)
    - Title: 利用底層信息的區塊分片并行傳播機制研究
    - Role: Key Member
 
 <span class='anchor' id='awards'></span>
 # 🎖️ Awards
+- *2026*: Second Prize, Teaching Excellence Award (2024–2025 academic year), Guangdong University of Technology
+- *2025*: "Excellent" rating in the Annual Faculty Performance Evaluation, Guangdong University of Technology
 - *2025*: **Best Paper Award**, IEEE WOCC 2025
 - *2024*: Outstanding Researching Award, Guangdong University of Technology, Jieyang Campus
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 
-- *2025.05*: "Reputation-Driven Communication Optimization for Wireless Edge Data Verification", **IEEE WOCC 2024**, Macau
+- *2025.05*: "Reputation-Driven Communication Optimization for Wireless Edge Data Verification", **IEEE WOCC 2025**, Macau
 - *2025.04*: "AI Technology and DeepSeek: Applications in Air Traffic Management Systems", **Shantou Air Traffic Management Bureau**, Shantou
 - *2025.04*: "Exploring Artificial Intelligence: From ChatGPT to Future Technology", **AI Science Popularization Series**, Jieyang
 - *2025.03*: "How College Students Can Embrace the AI Era", **GDUT Freshman Technology Forum**, Jieyang
